@@ -372,11 +372,13 @@ Smart-IoT-Integrated-Textile-Based-Temperature-Sensor/
       <strong>Lavangi Parihar</strong><br>
       <em>B22EE044</em><br>
       Embedded Library Development<br>
+      <a href="https://github.com/Lavangip">GitHub</a>
     </td>
     <td align="center">
       <strong>Vaghela Nisarg Nirav</strong><br>
       <em>B22EE068</em><br>
       Experimental Setup & Data Collection<br>
+      <a href="https://github.com/nisarg-vaghela17">GitHub</a>
     </td>
   </tr>
 </table>
