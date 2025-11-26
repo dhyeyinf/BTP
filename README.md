@@ -1,7 +1,7 @@
 # 🌡️ Smart IoT-Integrated Textile-Based Temperature Sensor with AI-Driven Predictive Analytics
 
 <div align="center">
-
+          
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 ![ML Framework](https://img.shields.io/badge/ML-Gradient%20Boosting-orange)
