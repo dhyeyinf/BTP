@@ -1,4 +1,4 @@
-# 🌡️ Smart IoT-Integrated Textile-Based Temperature Sensor with AI-Driven Predictive Analytics
+# Smart IoT-Integrated Textile-Based Temperature Sensor with AI-Driven Predictive Analytics
 
 <div align="center">
           
