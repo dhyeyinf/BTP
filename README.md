@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project demonstrates a complete end-to-end implementation of a **wearable temperature sensing system** using conductive textile materials, enhanced with **machine learning calibration** and **IoT connectivity**. The system addresses the limitations of traditional thermometers by providing:
 
