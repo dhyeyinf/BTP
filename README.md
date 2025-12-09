@@ -37,11 +37,11 @@
 
 This project demonstrates a complete end-to-end implementation of a **wearable temperature sensing system** using conductive textile materials, enhanced with **machine learning calibration** and **IoT connectivity**. The system addresses the limitations of traditional thermometers by providing:
 
-- ✅ **Real-time continuous monitoring**
-- ✅ **Flexible, wearable form factor**
-- ✅ **Environmental compensation** (humidity & ambient temperature)
-- ✅ **Cloud-connected IoT dashboard**
-- ✅ **Ultra-low latency** (~45μs inference time)
+- **Real-time continuous monitoring**
+- **Flexible, wearable form factor**
+- **Environmental compensation** (humidity & ambient temperature)
+- **Cloud-connected IoT dashboard**
+- **Ultra-low latency** (~45μs inference time)
 
 ### 🎓 Academic Context
 
