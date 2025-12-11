@@ -53,7 +53,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 🔬 **Textile-Based Sensing**
 - Conductive yarn as temperature-sensitive element
