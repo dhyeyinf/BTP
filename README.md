@@ -43,7 +43,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 - **Cloud-connected IoT dashboard**
 - **Ultra-low latency** (~45μs inference time)
 
-### 🎓 Academic Context
+### Academic Context
 
 **Institution:** Indian Institute of Technology Jodhpur  
 **Department:** Electrical Engineering  
