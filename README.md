@@ -55,7 +55,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 
 ## Key Features
 
-### 🔬 **Textile-Based Sensing**
+### **Textile-Based Sensing**
 - Conductive yarn as temperature-sensitive element
 - Resistance-based measurement (2.9kΩ - 9.7kΩ range)
 - Operates across 23°C - 102.5°C
