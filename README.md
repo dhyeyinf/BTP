@@ -60,7 +60,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 - Resistance-based measurement (2.9kΩ - 9.7kΩ range)
 - Operates across 23°C - 102.5°C
 
-### 🤖 **AI-Driven Calibration**
+### **AI-Driven Calibration**
 - **Gradient Boosting Regressor** for non-linear compensation
 - Multi-feature input: Resistance, Environmental Temp, Humidity
 - **Test MAE: 3.09°C** | **R² Score: 0.956**
