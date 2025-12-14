@@ -66,7 +66,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 - **Test MAE: 3.09°C** | **R² Score: 0.956**
 - Embedded polynomial approximation (3.7 kB model size)
 
-### 🌐 **IoT Integration**
+### **IoT Integration**
 - ESP32-based wireless connectivity
 - Real-time Blynk dashboard (Web + Mobile)
 - Firebase & Google Sheets data logging
