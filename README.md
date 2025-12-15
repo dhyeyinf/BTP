@@ -72,7 +72,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 - Firebase & Google Sheets data logging
 - Bluetooth-enabled monitoring
 
-### ⚡ **Optimized Embedded Deployment**
+### **Optimized Embedded Deployment**
 - Custom C++ inference library (`FabricTempSensor`)
 - 45μs prediction latency
 - 196 bytes RAM usage
