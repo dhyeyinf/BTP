@@ -80,7 +80,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
