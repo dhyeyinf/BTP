@@ -133,9 +133,9 @@ where R_ref = 10kΩ
 
 ---
 
-## 🧠 Machine Learning Pipeline
+## Machine Learning Pipeline
 
-### 1️⃣ Data Collection
+### Data Collection
 - **548 calibration samples** across 23°C - 102.5°C
 - Controlled heating using laboratory hotplate
 - Multi-sensor dataset (Sensor-1, Sensor-2, Sensor-3)
