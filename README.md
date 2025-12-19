@@ -113,7 +113,7 @@ This project demonstrates a complete end-to-end implementation of a **wearable t
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 | Component | Model/Type | Interface | Purpose |
 |-----------|-----------|-----------|---------|
