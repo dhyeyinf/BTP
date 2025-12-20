@@ -141,7 +141,7 @@ where R_ref = 10kΩ
 - Multi-sensor dataset (Sensor-1, Sensor-2, Sensor-3)
 - Automated Google Sheets logging via ESP32
 
-### 2️⃣ Feature Engineering
+### Feature Engineering
 
 **Steinhart-Hart Inspired Features:**
 - R⁻¹, ln(R), [ln(R)]³
