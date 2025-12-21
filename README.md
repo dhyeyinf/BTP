@@ -152,7 +152,7 @@ where R_ref = 10kΩ
 **Cross-Interaction Terms:**
 - R·T_env, ln(R)·T_env, ln(R)·H
 
-### 3️⃣ Model Comparison
+### Model Comparison
 
 | Model | Feature Set | Test MAE | Test RMSE | Test R² |
 |-------|-------------|----------|-----------|---------|
