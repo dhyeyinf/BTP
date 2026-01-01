@@ -160,7 +160,7 @@ where R_ref = 10kΩ
 | Random Forest | Simple | 3.74°C | 5.46°C | 0.952 |
 | Linear Regression | Comprehensive | 4.89°C | 6.98°C | 0.926 |
 
-### 4️⃣ Embedded Optimization
+### Embedded Optimization
 
 **Polynomial Approximation Formula:**
 ```
