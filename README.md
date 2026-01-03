@@ -172,7 +172,7 @@ T_predicted = β₀ + Σ(i+j+k≤4) β_ijk · Rⁱ · T_env^j · H^k
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
