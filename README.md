@@ -224,7 +224,7 @@ git clone https://github.com/dhyeyinf/Smart-IoT-Integrated-Textile-Based-Tempera
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Basic Example
 
